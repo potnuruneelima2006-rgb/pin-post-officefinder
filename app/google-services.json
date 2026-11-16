@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051116522628",
+    "project_id": "pinpostofficefinder",
+    "storage_bucket": "pinpostofficefinder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051116522628:android:a110470cf44cfc9d8486d1",
+        "android_client_info": {
+          "package_name": "com.example.pinpostofficefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXL-tpy2hlV93lFjMV91SbTTQWwM_xYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
